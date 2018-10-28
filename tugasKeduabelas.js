@@ -1,4 +1,4 @@
-console.log("-----Tugas Kesebelas-----")
+console.log("-----Tugas Keduabelas-----")
 
 function konversiMenit(menit) {
   var mins = Math.floor(menit / 60);
