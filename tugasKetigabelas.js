@@ -1,4 +1,4 @@
-console.log("-----Tugas Ketigabelas-----")
+console.log("---Tugas Ketigabelas---")
 
 function xo(str) {
  

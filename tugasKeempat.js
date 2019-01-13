@@ -1,4 +1,4 @@
-console.log("-----Tugas Keempat-----")
+console.log("---Tugas Keempat---")
 
 var tanggal = 21; 
 var bulan = 9; 

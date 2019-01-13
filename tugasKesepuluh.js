@@ -1,4 +1,4 @@
-console.log("-----Tugas Kesepuluh-----")
+console.log("---Tugas Kesepuluh---")
 
 function bandingkanAngka(angka1, angka2) {
   if(angka2 > angka1){

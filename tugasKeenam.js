@@ -1,4 +1,4 @@
-console.log("-----Tugas Keenam-----")
+console.log("---Tugas Keenam---")
 
 console.log("-- 1 (While Loops) --")
 

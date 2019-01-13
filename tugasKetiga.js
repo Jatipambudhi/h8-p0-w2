@@ -1,4 +1,4 @@
-console.log("-----Tugas Ketiga-----")
+console.log("---Tugas Ketiga---")
 
 var nama = ""
 var peran = "Penyihir"

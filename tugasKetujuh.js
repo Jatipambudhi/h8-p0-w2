@@ -1,4 +1,4 @@
-console.log("-----Tugas Ketujuh-----")
+console.log("---Tugas Ketujuh---")
 
 console.log("-- 1 --")
 

@@ -1,4 +1,4 @@
-console.log("-----Tugas Kesebelas-----")
+console.log("---Tugas Kesebelas---")
 
 function balikKata(kata) {
   

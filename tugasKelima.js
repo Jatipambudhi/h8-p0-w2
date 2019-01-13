@@ -1,4 +1,4 @@
-console.log("-----Tugas Kelima-----")
+console.log("---Tugas Kelima---")
 
 console.log("-- 1 --")
 

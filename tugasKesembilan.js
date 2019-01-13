@@ -1,4 +1,4 @@
-console.log("-----Tugas Kesembilan-----")
+console.log("---Tugas Kesembilan---")
 
 function shoutOut(){
   return "Halo Function!"
